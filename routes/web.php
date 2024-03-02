@@ -1,6 +1,9 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\MemberShip\MembershipController;
+
+
 
 /*
 |--------------------------------------------------------------------------
@@ -25,4 +28,25 @@ Route::middleware([
     Route::get('/dashboard', function () {
         return view('dashboard');
     })->name('dashboard');
+
+    Route::view('/membership', 'membership');
+    Route::view('/about', 'about');
+    Route::view('/board-directors', 'board-directors');
+    Route::view('/senior-management', 'senior-management');
+    Route::view('/our-products', 'our-products');
+    Route::view('/mobile-banking', 'mobile-banking');
+    Route::view('/loans', 'loans');
+    Route::view('/our-resources', 'our-resources');
+    Route::view('/our-downloads', 'our-downloads');
+    Route::view('/tenders', 'tenders');
+    Route::view('/our-careers', 'our-careers');
+    Route::view('/news-media', 'news-media');
+    Route::view('/events', 'events');
+    Route::view('/gallery', 'gallery');
+    Route::view('/news-articles', 'news-articles');
+    Route::view('/single-news-article', 'single-news-article');
+    Route::view('/help-support', 'help-support');
+    Route::view('/get-in-touch', 'get-in-touch');
+    Route::view('/submit-ticket', 'submit-ticket');
+
 });
