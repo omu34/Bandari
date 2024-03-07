@@ -1,0 +1,42 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-MF3vPbB_.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/css/styles.css": {
+    "file": "assets/styles-FWPEl1nh.css",
+    "isEntry": true,
+    "src": "resources/css/styles.css"
+  },
+  "resources/fonts/Hilmar-Bold.woff": {
+    "file": "assets/Hilmar-Bold-w40geAFS.js",
+    "isEntry": true,
+    "src": "resources/fonts/Hilmar-Bold.woff"
+  },
+  "resources/fonts/Hilmar-Regular.woff": {
+    "file": "assets/Hilmar-Regular-w40geAFS.js",
+    "isEntry": true,
+    "src": "resources/fonts/Hilmar-Regular.woff"
+  },
+  "resources/fonts/LexendDeca-Bold.woff": {
+    "file": "assets/LexendDeca-Bold-w40geAFS.js",
+    "isEntry": true,
+    "src": "resources/fonts/LexendDeca-Bold.woff"
+  },
+  "resources/fonts/LexendDeca-Medium.woff": {
+    "file": "assets/LexendDeca-Medium-w40geAFS.js",
+    "isEntry": true,
+    "src": "resources/fonts/LexendDeca-Medium.woff"
+  },
+  "resources/fonts/LexendDeca-Regular.woff": {
+    "file": "assets/LexendDeca-Regular-w40geAFS.js",
+    "isEntry": true,
+    "src": "resources/fonts/LexendDeca-Regular.woff"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-ecWDpuvf.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
